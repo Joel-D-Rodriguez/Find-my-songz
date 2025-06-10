@@ -2,7 +2,7 @@
 
 **Find My Songz** es una aplicación web interactiva que permite buscar canciones utilizando la [iTunes Search API](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html). Muestra resultados con reproductores de audio, carátulas de álbumes, y enlaces directos a Spotify y YouTube.
 
-![Find My Songz Screenshot](captures/capture1.png)
+![Find My Songz Screenshot](Captures/Cap1.png)
 
 ## 🌐 Accede al proyecto online
 
@@ -37,9 +37,15 @@
 
 ### Página de búsqueda
 
-![Captura búsqueda](captures/capture2.png)
+![Captura búsqueda](Captures/Cap3.png)
 
 ---
+
+### Version mobil
+
+![Captura mobil version](Captures/Cap4Mv.png)
+
+![Captura mobil version](Captures/Cap5Mv.png)
 
 ## 🧠 Cómo funciona internamente
 
