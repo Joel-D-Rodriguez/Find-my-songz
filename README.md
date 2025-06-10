@@ -79,13 +79,8 @@ Desarrollado con dedicación por **Joel Rodríguez**. Proyecto personal con fine
 
 ¿Tienes ideas o quieres contribuir? ¡Bienvenido!
 
-📧 Email: [joeldev.contacto@gmail.com](mailto:joerh0803@gmail.com)
+📧 Email: [joerh0803@gmail.com](mailto:joerh0803@gmail.com)
 
 💻 GitHub: [Joel-D-Rodriguez](https://github.com/Joel-D-Rodriguez)
 
 ---
-
-## 📄 Licencia
-
-Este proyecto está bajo la licencia MIT. Libre para modificar y compartir con atribución.
-
