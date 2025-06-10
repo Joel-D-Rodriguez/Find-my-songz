@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/3126/3126624.png" type="image/png">
+  <meta charset="UTF-8">
+  <title>Find My Songz – Music Search App</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Botón de modo oscuro flotante -->
+  <button id="toggleDarkMode" class="modo-boton">🌙</button>
+
+  <div class="player">
+    <h2>Find my songz</h2>
+
+    <div id="lupaContainer">
+      <button id="toggleSearch" class="lupa-solo">🔍</button>
+    </div>
+
+    <div id="searchContainer" class="hidden">
+      <input type="text" id="searchInput" placeholder="Escribe un artista o canción..." />
+      <button id="searchBtn">Buscar</button>
+    </div>
+
+    <div id="results"></div>
+    <audio id="audio" controls style="margin-top: 20px;"></audio>
+  </div>
+
+ <footer id="vintageFooter">
+  <p>
+    🎵 Personal project developed by <strong>Joel Rodríguez</strong><br>
+    Powered by public data from the <a href="https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html" target="_blank">iTunes Search API</a>.<br>
+    &copy; 2025 — All rights reserved.
+  </p>
+</footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
